@@ -1,5 +1,5 @@
 // WeeklyChef service worker. Bump VERSION on each release to drop old caches.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const SHELL = `weeklychef-shell-${VERSION}`;
 const ASSETS = `weeklychef-assets-${VERSION}`;
 const SHELL_URLS = ['./', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png'];
